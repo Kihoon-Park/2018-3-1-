@@ -1,0 +1,6 @@
+degree:  60
+humid:   10
+co2:     10
+dust:    10
+ismove:  1
+islight: 1

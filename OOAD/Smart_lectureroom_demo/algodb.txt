@@ -1,0 +1,7 @@
+min_i_degree: 5
+max_i_degree: 25
+max_i_humid:  30
+max_i_co2:    30
+con_o_degree: 30
+con_o_humid:  30
+max_o_dust:   30

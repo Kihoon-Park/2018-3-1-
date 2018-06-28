@@ -1,0 +1,6 @@
+degree:  4
+humid:   4
+co2:     4
+dust:    4
+ismove:  0
+islight: 1

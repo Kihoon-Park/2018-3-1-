@@ -1,0 +1,3 @@
+window:  0
+aircond: 1
+heater:  0

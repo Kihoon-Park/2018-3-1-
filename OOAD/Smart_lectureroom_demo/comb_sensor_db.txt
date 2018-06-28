@@ -1,0 +1,16 @@
+inside_sensor_data
+degree:  60
+humid:   10
+co2:     10
+dust:    10
+ismove:  1
+islight: 1
+
+outside_sensor_data
+degree:  4
+humid:   4
+co2:     4
+dust:    4
+ismove:  0
+islight: 1
+
